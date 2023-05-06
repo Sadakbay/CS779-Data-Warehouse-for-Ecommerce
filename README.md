@@ -3,6 +3,10 @@ This is my final project for CS 779 Advanced Database Management
 
 This project is a data warehousing solution for Olist, a Brazilian e-commerce platform. The objective of this project is to build a robust data warehouse that stores all of Olist's data, and provides business insights and analytics to help Olist's management make informed decisions.
 
+### Dimensional schema 
+
+![alt text](https://github.com/Sadakbay/data_warehouse_for_ecommerce/blob/712e5dc855471e205157d77a85287bbe9bd8af64/olist_schema.png?raw=true)
+
 ### Data sources
 1. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 2. https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
