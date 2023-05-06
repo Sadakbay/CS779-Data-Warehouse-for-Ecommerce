@@ -17,11 +17,11 @@ This project involves building a data warehouse that stores all of Olist's data.
 
 ### The project consists of the following steps:
 
-Extract: The data is extracted from various sources, including CSV files, and loaded into a PostgreSQL database.
-Transform: The data is transformed using SQL scripts to create a star schema consisting of fact and dimension tables. The dimension tables include Date, Customer, Seller, Product, and Geolocation, while the fact tables include FactSales, FactReview, FactDelivery, and FactMarketing.
-Load: The transformed data is loaded into the PostgreSQL database.
-Maintain: Stored procedures are created to maintain the data in the dimension tables using SCD Type 2.
-Analyze: Business insights and analytics are generated using SQL queries.
+Extract: The data is extracted from various sources, including CSV files, and loaded into a PostgreSQL database.  
+Transform: The data is transformed using SQL scripts to create a star schema consisting of fact and dimension tables. The dimension tables include Date, Customer, Seller, Product, and Geolocation, while the fact tables include FactSales, FactReview, FactDelivery, and FactMarketing.  
+Load: The transformed data is loaded into the PostgreSQL database.  
+Maintain: Stored procedures are created to maintain the data in the dimension tables using SCD Type 2.  
+Analyze: Business insights and analytics are generated using SQL queries.  
 
 ### Tools and Technologies
 
