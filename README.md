@@ -27,8 +27,8 @@ Analyze: Business insights and analytics are generated using SQL queries.
 
 The following tools and technologies were used in this project:
 
-PostgreSQL: A powerful, open-source relational database management system.
-SQL: A standard language used for querying and manipulating relational databases.
+PostgreSQL: A powerful, open-source relational database management system.  
+SQL: A standard language used for querying and manipulating relational databases.  
 Tableau: Used for visualizations.
 
 ### Conclusion
